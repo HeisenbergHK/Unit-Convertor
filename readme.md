@@ -9,6 +9,16 @@ Convert between:
 - **Volume**: Liters ↔ Gallons  
 - **Mass**: Kilograms ↔ Pounds
 
+## 🚀 Live Demo
+
+**[🌟 Try it Live Here!](https://hasasn-unit-convertor.netlify.app/) 🌟**
+
+Experience the cool hover effects and smooth transitions in action!
+
+## 📸 Demo Preview
+
+![Unit Converter Demo](images/demo-img.png)
+
 ## 🎨 Cool Features
 
 - **Smooth animations** and hover effects that make the UI come alive
@@ -16,12 +26,6 @@ Convert between:
 - **Beautiful gradient design** with a modern purple theme
 - **Responsive layout** that looks great on any device
 - **Interactive elements** with satisfying visual feedback
-
-<!-- ## 🚀 Live Demo
-
-![Unit Converter Demo](images/demo-img.png)
-
-**👆 Check out the live version to experience the cool hover effects and smooth transitions!** -->
 
 The interface features:
 - Glowing input field with dynamic shadows
