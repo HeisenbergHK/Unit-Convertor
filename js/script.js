@@ -5,8 +5,8 @@ const volumeResult = document.getElementById("volume-result");
 const massResult = document.getElementById("mass-result");
 
 document.addEventListener("DOMContentLoaded", () => {
-  inputNumberElement.textContent = "";
-  render("");
+  inputNumberElement.textContent = "1";
+  render("1");
 });
 
 convertButton.addEventListener("click", function () {
